@@ -1,14 +1,13 @@
 {
   "name": "releasessy",
   "version": "1.0.0",
-  "main": "index.js",
+  "bin": "./index.js",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.1.2",
     "execa": "^6.1.0",
     "inquirer": "^9.1.4",
     "ora": "^6.1.2",
-  
     "semver": "^7.3.8",
     "simple-git": "^3.15.0"
   },
